@@ -1,0 +1,145 @@
+
+body{
+	background: #7291FF;
+}
+
+
+.h1{
+	text-align: center;
+	color: yellow;
+}
+
+.text1{
+	text-align: center;
+	color: yellow;
+
+}
+
+.textx{
+	text-align: justify;
+	color: black;
+}
+	
+
+.contenedor{
+	display: flex;
+
+}
+
+.fitoplacton{
+	width: 350px;
+	height: 250px;
+}
+
+.text2{
+	text-align: justify;
+	color: white;
+
+}
+
+.text.2{
+	text-align: justify;
+	color: black;
+}
+///////////////////////////////////////////////////////////////////////////////////////////////////////
+.contenedor2{
+	display: flex;
+
+}
+
+.algas{
+	width: 350px;
+	height: 250px;
+}
+
+.text3{
+	text-align: justify;
+	color: white;
+}
+
+
+.text.3{
+	text-align: justify;
+	color: black;
+}
+
+.contenedor3{
+	display: flex;	
+
+}
+
+.ribera{
+	width: 350px;
+	height: 250px;
+
+}
+.text5{
+	text-align: justify;
+	color: white;
+}
+
+.text.5{
+	text-align: justify;
+	color: black;
+}
+///////////////////////////////////////////////////////////////
+.contenedor4{
+	display: flex;	
+
+}
+
+.flotante{
+	width: 350px;
+	height: 250px;
+
+}
+
+.text6{
+	text-align: justify;
+	color: white;
+}
+
+.text.6{
+	text-align: justify;
+	color: white;
+}
+
+.contenedor5{
+	display: flex;	
+
+}
+
+.profundas{
+	width: 350px;
+	height: 250px;
+}
+.text7{
+	text-align: justify;
+	color: white;
+}
+
+.text.7{
+	text-align: justify;
+	color: black;
+}
+////////////////////////////////////////////
+.contenedor6{
+	display: flex;
+
+}
+
+.oxigenadoras{
+	width: 350px;
+	height: 250px;
+
+}
+
+.text8{
+	text-align: justify;
+	color: white;
+}
+
+.text.8{
+	text-align: justify;
+	color: white;
+}

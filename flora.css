@@ -1,0 +1,33 @@
+body{
+	font-family: arial, helvetica;
+	background-image: url(flora.jpg);
+	 background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-size: 1500px 700px;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 80%;
+	max-width: 880px;
+	margin: auto;
+}
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	display: block;
+
+
+	}
+	.menu li{
+		display: inline-block;
+		text-align: center;
+
+	}
+
+.menu li a:hover{
+	background: #ef8354;
+}

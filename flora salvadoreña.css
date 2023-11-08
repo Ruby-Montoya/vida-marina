@@ -1,0 +1,92 @@
+body{
+	background: #7291FF;
+}
+
+
+.h1{
+	text-align: center;
+	color: yellow;
+}
+
+
+.contenedor{
+	display: flex;
+
+
+}
+
+.mangler{
+	width: 300px;
+	height: 300px;
+}
+.text2{
+	text-align: justify;
+	color: white;
+}
+
+.text.2{
+	text-align: justify;
+	color: black;
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////
+.contenedor2{
+	display: flex;	
+
+}
+
+.rodofitas{
+	width: 350px;
+	height: 300px;
+
+}
+.text3{
+	text-align: justify;
+	color: white;
+}
+
+.text.3{
+	text-align: justify;
+	color: black;
+}
+
+.contenedor3{
+	display: flex;	
+
+}
+
+.verde{
+	width: 350px;
+	height: 250px;
+
+}
+.text4{
+	text-align: justify;
+	color: white;
+}
+
+.text.4{
+	text-align: justify;
+	color: black;
+}
+///////////////////////////////////////////////////////////////
+.contenedor4{
+	display: flex;	
+
+}
+
+.dorada{
+	width: 350px;
+	height: 250px;
+
+}
+.text5{
+	text-align: justify;
+	color: white;
+}
+
+.text.5{
+	text-align: justify;
+	color: black;
+}
+

@@ -1,0 +1,103 @@
+body{
+	background: #7291FF;
+}
+
+
+.h1{
+	text-align: center;
+	color: yellow;
+}
+
+.h2{
+	text-align: justify;
+	color: white;
+}
+
+.text2{
+	text-align: justify;
+	color: white;
+}
+.text3{
+	text-align: justify;
+	color: white;
+}
+.text4{
+	text-align: justify;
+	color: white;
+}
+.text5{
+	text-align: justify;
+	color: white;
+}
+.text6{
+	text-align: justify;
+	color: white;
+}
+
+.contenedor{
+	display: flex;
+
+
+}
+
+}
+.text2{
+	text-align: justify;
+
+}
+
+/////////////////////////////////////////////////////////////////////////////////////////
+.contenedor2{
+	display: flex;	
+
+}
+
+.blanco{
+	width: 350px;
+	height: 300px;
+
+}
+.text3{
+	text-align: justify;
+}
+
+.contenedor3{
+	display: flex;	
+
+}
+
+.rojo{
+	width: 350px;
+	height: 250px;
+
+}
+.text4{
+	text-align: justify;
+}
+//////////////////////////////////////////////////////////////////////////////////////
+.contenedor4{
+	display: flex;	
+
+}
+
+.calendula{
+	width: 350px;
+	height: 250px;
+
+}
+
+.text5{
+	text-align: justify;
+}
+
+
+.contenedor5{
+	display: flex;	
+
+}
+
+.halophila{
+	width: 350px;
+	height: 250px;
+}
+////////////////////////////////////////////////////////////////////////////////////////////7
